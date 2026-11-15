@@ -1,0 +1,13 @@
+node_modules
+dist
+server
+db
+docs
+deliverables
+design-system
+scripts
+.github
+.opencode
+migrasi-railway.ps1
+*.md
+.env*
